@@ -1,7 +1,8 @@
-### Oii, meu nome é Aline e sou estudante de Desenvolvimento Web na Trybe! 👋
+### Oii, meu nome é Aline e sou estudante de Desenvolvimento Web Full-Stack na Trybe! 👋
 
-
-
+Experiência com HTML5, CSS3 e JavaScript ES6;
+Testes Unitários com Jest;
+Estudando ReactJS atualmente;
 <div align="center">
   <a href="https://github.com/alinehofner">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alinehofner&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
